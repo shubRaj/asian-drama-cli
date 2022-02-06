@@ -13,9 +13,10 @@
   },
   "name": "asian-drama-cli",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "repository": "git@github.com:shubraj/asian-drama-cli.git",
   "author": "shubraj <shuvraj1234@gmail.com>",
   "license": "MIT",
+  "bin":"./main.js",
   "type": "module"
 }
