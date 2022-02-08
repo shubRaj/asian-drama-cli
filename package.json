@@ -12,11 +12,11 @@
     "puppeteer": "^13.1.3"
   },
   "name": "asian-drama-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
   "repository": "git@github.com:shubraj/asian-drama-cli.git",
   "author": "shubraj <shuvraj1234@gmail.com>",
   "license": "MIT",
-  "bin":"./main.js",
+  "bin": "./main.js",
   "type": "module"
 }
