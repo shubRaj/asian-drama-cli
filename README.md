@@ -5,7 +5,7 @@ A cli to browse and watch Asian Dramas. This tool scrapes the site [watchasian](
 	Showcase
 </h1>
 <p align="center">
-<img src=.assets/drama-cli.gif width="100%">
+<img src=./assets/drama-cli.gif width="100%">
 </p>
 
 ## Install
