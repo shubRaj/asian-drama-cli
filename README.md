@@ -11,7 +11,7 @@ A cli to browse and watch Asian Dramas. This tool scrapes the site [watchasian](
 ## Install
 
 Install dependencies
-*Note that VLC Player must be installed on your system*
+### Note that VLC Player must be installed on your system
 ```sh
 git clone git@github.com:shubraj/asian-drama-cli.git
 cd asian-drama-cli
